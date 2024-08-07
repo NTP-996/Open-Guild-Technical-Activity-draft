@@ -16,6 +16,18 @@ Before we start, ensure you have the following:
      rustup target add wasm32-unknown-unknown
 ```
 
+2. **💻 Visual Studio Code (VS Code)**: Set up VS Code for Rust and Ink! development.
+   - Download and install VS Code from the [official website](https://code.visualstudio.com/).
+   - Install the following extensions in VS Code:
+     - **Rust Extension**:
+       - Go to the Extensions view (`Ctrl+Shift+X`).
+       - Search for "Rust" and install the [Rust extension by rust-lang](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust).
+     - **Ink! Extension**:
+       - In the Extensions view, search for "Ink!" and install the [Ink! extension](https://marketplace.visualstudio.com/items?itemName=ParityTechnologies.ink-vscode).
+     - **Rust Analyzer Extension (Recommended)**:
+       - This extension provides enhanced Rust language support, including code completion and inline error checking.
+       - Search for "Rust Analyzer" in the Extensions view and install the [Rust Analyzer extension](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer).
+
 ### 📦 Setup on Different Operating Systems
 
 ### 🪟 Windows
